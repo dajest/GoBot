@@ -5,3 +5,62 @@ body {
 .main-side .v-main__wrap {
   display: flex;
 }
+
+.main-side-content-wrapper {
+  flex: 1;
+  padding-top: 30px;
+}
+
+// Expansion Pannel Elements gets rendered by Vuetofy later with JS
+.details-expansion-pannel {
+
+  .title-droplink {
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 18px;
+    color: #272727;
+    opacity: 0.5;
+  }
+
+  .v-expansion-panel-header__icon .v-icon {
+    font-size: 14px;
+  }
+
+  .v-expansion-panel-content {
+    padding-top: 30px;
+
+    .date-line, .balance-line {
+      width: 70%;
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .date, .balance {
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 26px;
+      color: #272727;
+    }
+
+    .date-value, .balance-value { 
+      font-weight: 300;
+      font-size: 12px;
+      line-height: 26px;
+      color: #272727;
+    }
+
+    .balance-value {
+      font-weight: 700;
+      font-size: 12px;
+      line-height: 26px;
+
+      &.positive {
+        color: #59A372;
+      }
+
+      &.negative {
+        color: #BF1616;
+      }
+    }
+  }
+}

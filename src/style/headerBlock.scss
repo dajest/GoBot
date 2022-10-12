@@ -1,0 +1,68 @@
+.header-block {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 60px;
+  margin-bottom: 30px;
+}
+.prepaid-balance-block {
+  margin-right: 64px;
+}
+
+.earned-balance-block {
+  margin-right: 80px;
+}
+.prepaid-balance-block, .earned-balance-block {
+  .title {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #AFCEB9;
+  }
+
+  .balance {
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 38px;
+    text-align: center;
+    color: #272727;
+  }
+}
+.required-action {
+  font-size: 14px;
+  line-height: 21px;
+  color: #272727;
+  opacity: 0.4;
+  text-align: center;
+}
+
+.earning-status {
+  display: flex;
+  justify-content: center;
+  .earnings-direction-icon {
+    margin-right: 10px;
+  }
+  
+  .earnings-amount {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  &.negative {
+    color: #BF1616;
+  }
+
+  &.positive {
+    color: #AFCEB9;
+  }
+
+}
+
+.profile-link {
+  width: 52px;
+  height: 52px;
+  background: #B7E0C5;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

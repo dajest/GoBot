@@ -40,9 +40,6 @@
           <h3 class="link-descriptor">Statistics</h3>
         </div>           
       </router-link>
-      
-      
-
     </div>
   </v-navigation-drawer>
 </template>
@@ -52,12 +49,7 @@
     name: 'NavigationDrawer',
 
     data: () => ({
-      drawerMenuList: [
-        {name: "Dashboard"},
-        {name: "Run Bot"},
-        {name: "Confugure bot"},
-        {name: "Statistics"},
-      ],
+
     }),
   }
 </script>

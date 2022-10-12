@@ -1,6 +1,7 @@
 .theme--light.v-navigation-drawer.drawer {
   background-color: #B7E0C5;
   padding-top: 28px;
+  width: 160px !important;
 
   .title-block {
     font-weight: 700;
@@ -20,21 +21,18 @@
 
 
   .nav-link {
-    margin-bottom: 30px;
+    margin-bottom: 60px;
     text-decoration: none;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
   }
 
   .navigation-block-link {
     display: flex;
     flex-direction: column;
     align-items: center;
-    // margin-bottom: 70px;
-
-    &:last-child {
-      margin-bottom: 0;
-    }
-    
-
 
     .link-descriptor {
       font-weight: 500;
