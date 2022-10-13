@@ -20,7 +20,7 @@
 
     <div class="started-bots-section dashboard-section runbot-screen">
       <div class="started-bots-headding">
-        <h3>Started bots</h3>
+        <h3>Started botsЫ</h3>
         <div class="allowed-bot-amount">*you  can run 3 bot(s)</div>      
       </div>
 
