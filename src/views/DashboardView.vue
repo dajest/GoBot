@@ -228,8 +228,6 @@
       </div>
     </div>
 
-    <!-- <div class="last-stats-section dashboard-section"></div> -->
-
     <div class="last-stats-section dashboard-section">
       <div class="stats-headding">
         <h3>Last stats</h3>
