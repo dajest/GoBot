@@ -400,7 +400,7 @@
     components: {
     },
     data: () => ({
-      listView: false,
+      listView: true,
       botStartTimeDialog: false,
       botStartTime: '',
       botStopTimeDialog: false,
