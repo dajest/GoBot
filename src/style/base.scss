@@ -64,3 +64,13 @@ body {
     }
   }
 }
+
+.input-anulizer {
+  .v-input__slot {
+    margin-bottom: 0 !important;
+  }
+
+  .v-text-field__details {
+    display: none;
+  }
+}

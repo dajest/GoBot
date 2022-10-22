@@ -37,7 +37,7 @@
             <div class="name">
               <div class="name-content">
                 <span>Old-serv-bot-dog</span>
-                <v-icon class="ml-2" small color="#272727">mdi-pencil</v-icon></div>
+              </div>
               </div>
             <div class="status">
               <div class="status-content active">
@@ -96,7 +96,7 @@
             <div class="name">
               <div class="name-content">
                 <span>Old-serv-bot-dog</span>
-                <v-icon class="ml-2" small color="#272727">mdi-pencil</v-icon></div>
+              </div>
               </div>
             <div class="status">
               <div class="status-content inactive">
@@ -153,7 +153,7 @@
             <div class="name">
               <div class="name-content">
                 <span>Old-serv-bot-dog</span>
-                <v-icon class="ml-2" small color="#272727">mdi-pencil</v-icon></div>
+              </div>
               </div>
             <div class="status">
               <div class="status-content active">
@@ -210,7 +210,7 @@
             <div class="name">
               <div class="name-content">
                 <span>Old-serv-bot-dog</span>
-                <v-icon class="ml-2" small color="#272727">mdi-pencil</v-icon></div>
+              </div>
               </div>
             <div class="status">
               <div class="status-content active">
@@ -267,7 +267,7 @@
             <div class="name">
               <div class="name-content">
                 <span>Old-serv-bot-dog</span>
-                <v-icon class="ml-2" small color="#272727">mdi-pencil</v-icon></div>
+              </div>
               </div>
             <div class="status">
               <div class="status-content inactive">
