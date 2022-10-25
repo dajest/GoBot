@@ -3,7 +3,7 @@
     <div class="started-bots-section dashboard-section">
       <div class="started-bots-headding">
         <h3>Started bots</h3>
-        <div class="allowed-bot-amount">*you  can run 3 bot(s)</div>      
+        <div class="allowed-bot-amount">*you  can run 4 bot(s)</div>      
       </div>
 
       <div class="started-bots-table">
